@@ -14,4 +14,4 @@ CREATE TABLE users (
 --     photo_url TEXT NOT NULL,
 --     caption TEXT NOT NULL,
 --     tags TEXT[]
--- )
+-- );
